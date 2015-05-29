@@ -1,0 +1,28 @@
+{
+  "ProjectName": "NS_Blank_JS2",
+  "ProjectGuid": "b7da9e43-41dc-4275-a531-51b52a04b9e7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NSBlankJS2",
+  "DisplayName": "NS_Blank_JS2",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "0.10.0",
+  "Framework": "NativeScript"
+}
